@@ -1,0 +1,5 @@
+{
+  "name": "Lite IFC Viewer Pro",
+  "description": "A professional-grade, lightweight IFC (Industry Foundation Classes) viewer for BIM models. Load files directly from your disk, visualize 3D architecture, and use AI to analyze model metadata.",
+  "requestFramePermissions": []
+}
